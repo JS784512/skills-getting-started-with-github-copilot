@@ -107,12 +107,6 @@ activities = {
       "schedule": "Tuesdays, 3:30 PM - 5:30 PM",
       "max_participants": 16,
       "participants": []
-   },
-   "Math Olympiad Club": {
-      "description": "Problem solving and competition preparation",
-      "schedule": "Thursdays, 4:00 PM - 5:30 PM",
-      "max_participants": 20,
-      "participants": []
    }
 }
 
