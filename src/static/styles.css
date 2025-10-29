@@ -85,6 +85,24 @@ section h3 {
   padding: 3px 0;
   color: #555;
   font-size: 0.9em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.delete-participant {
+  background: none;
+  border: none;
+  color: #ff4444;
+  cursor: pointer;
+  padding: 2px 8px;
+  font-size: 1.2em;
+  transition: color 0.2s;
+}
+
+.delete-participant:hover {
+  color: #cc0000;
+  background-color: transparent;
 }
 
 .participants-title {
