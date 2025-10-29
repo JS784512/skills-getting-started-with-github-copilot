@@ -74,6 +74,45 @@ activities = {
       "schedule": "Fridays, 3:30 PM - 5:00 PM",
       "max_participants": 20,
       "participants": []
+   },
+   # Sports (added)
+   "Soccer Team": {
+      "description": "Team soccer practice and matches",
+      "schedule": "Mondays and Wednesdays, 4:00 PM - 6:00 PM",
+      "max_participants": 22,
+      "participants": []
+   },
+   "Tennis Club": {
+      "description": "Tennis lessons and friendly competitions",
+      "schedule": "Tuesdays and Thursdays, 3:30 PM - 5:00 PM",
+      "max_participants": 12,
+      "participants": []
+   },
+   # Artistic (added)
+   "Photography Club": {
+      "description": "Learn photography techniques and photo walks",
+      "schedule": "Wednesdays, 4:00 PM - 5:30 PM",
+      "max_participants": 18,
+      "participants": []
+   },
+   "Music Ensemble": {
+      "description": "Instrumental ensemble rehearsals and performances",
+      "schedule": "Fridays, 4:00 PM - 6:00 PM",
+      "max_participants": 20,
+      "participants": []
+   },
+   # Intellectual (added)
+   "Robotics Club": {
+      "description": "Build and program robots; prepare for competitions",
+      "schedule": "Tuesdays, 3:30 PM - 5:30 PM",
+      "max_participants": 16,
+      "participants": []
+   },
+   "Math Olympiad Club": {
+      "description": "Problem solving and competition preparation",
+      "schedule": "Thursdays, 4:00 PM - 5:30 PM",
+      "max_participants": 20,
+      "participants": []
    }
 }
 
